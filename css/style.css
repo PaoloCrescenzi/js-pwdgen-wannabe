@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Inter', sans-serif;
+}
+
+
+.container{
+    margin: auto;
+    width: 920px;
+    text-align: center;
+    background-color: rgb(237, 237, 237);
+    border-radius: 20px;
+    margin-top: 3rem;
+}
+
+.text{
+    padding: 4rem 0;
+}
+
+button{
+    background-color: rgb(72, 72, 249);
+    color: white;
+    border-radius: 20px;
+    padding: 1rem 2rem;
+    border: none;
+}
